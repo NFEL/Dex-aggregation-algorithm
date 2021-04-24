@@ -1,0 +1,36 @@
+{
+    "DAI-BUSD-pan" : {
+        "token0":"DAI",
+        "token1":"BUSD",
+        "address":"0x1354",
+        "reserve0":25178960737980562498198383,
+        "reserve1":25220186453163696783251569
+    },
+    "DAI-BUSD-burger" : {
+        "token0":"DAI",
+        "token1":"BUSD",
+        "address":"0x1359",
+        "reserve0":1000,
+        "reserve1":1000
+    },
+    "DAI-USDT-pan" : {
+        "token0":"DAI",
+        "token1":"USDT",
+        "address":"0x1382",
+        "reserve0":517637737358041595145836,
+        "reserve1":518935963474459711535413
+    },
+    "USDT-BUSD-pan" : {
+        "token0":"USDT",
+        "token1":"BUSD",
+        "address":"0x98sad",
+        "reserve0":72314099530921749448233144,
+        "reserve1":72228839411133092648695492
+    },
+    "USDT - BUSD - DODO":{
+        "token0":"USDT",
+        "token1":"BUSD",
+        "address":"0x0fe261aeE0d1C4DFdDee4102E82Dd425999065F4",
+        "reserve1":""
+    }
+}

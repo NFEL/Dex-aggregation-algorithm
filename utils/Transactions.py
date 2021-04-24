@@ -1,0 +1,1 @@
+# def ask_value(address)
